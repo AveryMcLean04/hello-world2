@@ -1,3 +1,3 @@
 # hello-world2
-my name is avery
-i go to queens
+my name is Avery
+I go to Queens
